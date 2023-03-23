@@ -7,4 +7,4 @@ Lanagauge: Python
 Using algorithm to make the prediction model.
 
 ## Results
-![alt text](https://github.com/CYLEE21/hm_project.git/hm_project/picture/Loss_curve_for_NN.png)
+![alt text](https://github.com/CYLEE21/hm_project.git/picture/Loss_curve_for_NN.png)
